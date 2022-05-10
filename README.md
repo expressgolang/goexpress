@@ -1,2 +1,2 @@
-# goexpress
+# gopress
 gopress
